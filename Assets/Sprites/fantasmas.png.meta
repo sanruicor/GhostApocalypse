@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: eacc9b4ee9205c74caf88a8b3c547427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6640808203854915747
+    second: fantasmas_0
+  - first:
+      213: -6506336226310494606
+    second: fantasmas_1
+  - first:
+      213: 3027579260438048613
+    second: fantasmas_2
+  - first:
+      213: -1855160902024466420
+    second: fantasmas_3
+  - first:
+      213: 1317851916266867966
+    second: fantasmas_4
+  - first:
+      213: 8991619072993399194
+    second: fantasmas_5
+  - first:
+      213: -2151125783942734045
+    second: fantasmas_6
+  - first:
+      213: -1059522222645246852
+    second: fantasmas_7
+  - first:
+      213: -7858862282727074581
+    second: fantasmas_8
+  - first:
+      213: 7129835155854220715
+    second: fantasmas_9
+  - first:
+      213: -4334848025445293951
+    second: fantasmas_10
+  - first:
+      213: -4246009731423180483
+    second: fantasmas_11
+  - first:
+      213: 8228677126519764509
+    second: fantasmas_12
+  - first:
+      213: 3489170057298685329
+    second: fantasmas_13
+  - first:
+      213: -6262458640002103282
+    second: fantasmas_14
+  - first:
+      213: -4952001017099314268
+    second: fantasmas_15
+  - first:
+      213: 7141785711596320891
+    second: fantasmas_16
+  - first:
+      213: -9047624643269237107
+    second: fantasmas_17
+  - first:
+      213: 1754441824980686206
+    second: fantasmas_18
+  - first:
+      213: -8815590193205406700
+    second: fantasmas_19
+  - first:
+      213: -2537713843573529806
+    second: fantasmas_20
+  - first:
+      213: 2764596771609598551
+    second: fantasmas_21
+  - first:
+      213: 2876729678586718954
+    second: fantasmas_22
+  - first:
+      213: -5712074609430774386
+    second: fantasmas_23
+  - first:
+      213: -3892350827575773943
+    second: fantasmas_24
+  - first:
+      213: -5098267562563276937
+    second: fantasmas_25
+  - first:
+      213: 4471067338902283386
+    second: fantasmas_26
+  - first:
+      213: 9102807940060021981
+    second: fantasmas_27
+  - first:
+      213: 28547010185724881
+    second: fantasmas_28
+  - first:
+      213: -7060904363288987584
+    second: fantasmas_29
+  - first:
+      213: 3705440218442280795
+    second: fantasmas_30
+  - first:
+      213: -6671134139156386011
+    second: fantasmas_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasmas_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a54c70e3e82c50800000000000000
+      internalID: 6640808203854915747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e1899ca9d4b5a0800000000000000
+      internalID: -6506336226310494606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fefbbeb4f140a20800000000000000
+      internalID: 3027579260438048613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0073a91df42146e0800000000000000
+      internalID: -1855160902024466420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc87a7e553f94210800000000000000
+      internalID: 1317851916266867966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91166148e5a8cc70800000000000000
+      internalID: 8991619072993399194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd8e42f7aa522e0800000000000000
+      internalID: -2151125783942734045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74099fe622db41f0800000000000000
+      internalID: -1059522222645246852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be456535466bfe290800000000000000
+      internalID: -7858862282727074581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad58cb7c4342f260800000000000000
+      internalID: 7129835155854220715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a70810b687d3c0800000000000000
+      internalID: -4334848025445293951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d396ba545a42315c0800000000000000
+      internalID: -4246009731423180483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b799cf32223270800000000000000
+      internalID: 8228677126519764509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da7324ea50c6030800000000000000
+      internalID: 3489170057298685329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08491efb074719a0800000000000000
+      internalID: -6262458640002103282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_15
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab1c60df45f64bb0800000000000000
+      internalID: -4952001017099314268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b8a11448bc1360800000000000000
+      internalID: 7141785711596320891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86edd4c251607280800000000000000
+      internalID: -9047624643269237107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75df0d5b87095810800000000000000
+      internalID: 1754441824980686206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41413902d6bb8a580800000000000000
+      internalID: -8815590193205406700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_20
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233653464ba38ccd0800000000000000
+      internalID: -2537713843573529806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a5bf6cd12dd5620800000000000000
+      internalID: 2764596771609598551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea2cfea6623ce720800000000000000
+      internalID: 2876729678586718954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8db9561862aab0b0800000000000000
+      internalID: -5712074609430774386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f52d7b879bf9c0800000000000000
+      internalID: -3892350827575773943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fe483e9a05f39b0800000000000000
+      internalID: -5098267562563276937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a742f165e0c6c0e30800000000000000
+      internalID: 4471067338902283386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd402edb79ba35e70800000000000000
+      internalID: 9102807940060021981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d30581ca5b656000800000000000000
+      internalID: 28547010185724881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048772154e0a20e90800000000000000
+      internalID: -7060904363288987584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fa2b41f3e5c6330800000000000000
+      internalID: 3705440218442280795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasmas_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f2a9a78de5b63a0800000000000000
+      internalID: -6671134139156386011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff06c9bd4b9cef04981d4a3de9670620
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":56.0,"y":56.0},"gridSpriteOffset":{"x":8.0,"y":8.0},"gridSpritePadding":{"x":8.0,"y":8.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fantasmas_0: 6640808203854915747
+      fantasmas_1: -6506336226310494606
+      fantasmas_10: -4334848025445293951
+      fantasmas_11: -4246009731423180483
+      fantasmas_12: 8228677126519764509
+      fantasmas_13: 3489170057298685329
+      fantasmas_14: -6262458640002103282
+      fantasmas_15: -4952001017099314268
+      fantasmas_16: 7141785711596320891
+      fantasmas_17: -9047624643269237107
+      fantasmas_18: 1754441824980686206
+      fantasmas_19: -8815590193205406700
+      fantasmas_2: 3027579260438048613
+      fantasmas_20: -2537713843573529806
+      fantasmas_21: 2764596771609598551
+      fantasmas_22: 2876729678586718954
+      fantasmas_23: -5712074609430774386
+      fantasmas_24: -3892350827575773943
+      fantasmas_25: -5098267562563276937
+      fantasmas_26: 4471067338902283386
+      fantasmas_27: 9102807940060021981
+      fantasmas_28: 28547010185724881
+      fantasmas_29: -7060904363288987584
+      fantasmas_3: -1855160902024466420
+      fantasmas_30: 3705440218442280795
+      fantasmas_31: -6671134139156386011
+      fantasmas_4: 1317851916266867966
+      fantasmas_5: 8991619072993399194
+      fantasmas_6: -2151125783942734045
+      fantasmas_7: -1059522222645246852
+      fantasmas_8: -7858862282727074581
+      fantasmas_9: 7129835155854220715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
